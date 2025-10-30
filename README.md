@@ -1,3 +1,12 @@
+```bash
+sudo apt install libxcb-xinerama0 libxcb-cursor0 libxcb-randr0 libxcb-xtest0 libxcb-shape0 libxcb-xfixes0
+pip install pyqt5 pyqtgraph imageio numpy
+```
+
+![](https://raw.githubusercontent.com/unton3ton/pyqtgraph/refs/heads/master/instaorig2.jpg)
+
+![](https://raw.githubusercontent.com/unton3ton/pyqtgraph/refs/heads/master/insta2.png)
+
 PyQtGraph
 =========
 
@@ -121,3 +130,8 @@ Here is a partial listing of some of the applications that make use of PyQtGraph
 * [QT-DataViewer](https://gitlab.tudelft.nl/qutech-qdlabs/qt-dataviewer)
 
 Do you use PyQtGraph in your own project, and want to add it to the list?  Submit a pull request to update this listing!
+
+# Sources
+
+* [Image Analysis Tool using PyQtGraph](https://www.geeksforgeeks.org/python/image-analysis-tool-using-pyqtgraph/?ysclid=mhbqkksoy3131480206)
+* [PyQtGraph: Scientific Graphics and GUI Library for Python](https://www.pyqtgraph.org)
